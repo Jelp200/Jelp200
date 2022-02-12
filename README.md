@@ -36,7 +36,7 @@ void languages(){
       char opcion = terminal.getc();
 }
 ```
-<h2 align="left">Learned :computer:</h2> <h2 align="rigth">In learning 👨🏽‍💻</h2>
+<h2 align="left">Learned :computer:</h2> <h2 align="right">In learning 👨🏽‍💻</h2>
 
 <h2 align="center">Contact me if you study in the IPN 🦄 (just 4 fun)</h2>
 
