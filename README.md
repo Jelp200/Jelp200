@@ -3,10 +3,41 @@
 ### My name's Jorge i'm a electronic and telecommunications student in the ESIME Z of the IPN, I love all about of the engineering, entrepreneuring and the philosophy 🦾💻⚙️📡
 
 ```C
+#include <stdio.h>
+#include "github.h"
+
+void languages();
+void tools();
+
 int main(){
-      char x;
+      void languages();
+      void tools();
+      return 0;
+}
+
+void languages(){
+      terminal.printf("My languages: ");
+      terminal.printf("C");
+      terminal.printf("C++");
+      terminal.printf("PY");
+      terminal.printf("Java");
+      terminal.printf("JS");
+      terminal.printf("Press a button to continue...");
+      char opcion = terminal.getc();
+}
+
+void languages(){
+      wait(3);
+      terminal.printf("Tools: ");
+      terminal.printf("Visual Studio");
+      terminal.printf("Visual Studio" Code);
+      terminal.printf("In progress to have more tools");
+      terminal.printf("Press a button to continue...");
+      char opcion = terminal.getc();
 }
 ```
+<h2 align="center">Contact me if you study in the IPN 🦄:</h2>
+
 <!--
 <h3 align="center">Languages and tools</h3>
 <div style="display: inline_block" align="center"><br>
