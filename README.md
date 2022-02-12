@@ -36,7 +36,12 @@ void languages(){
       char opcion = terminal.getc();
 }
 ```
-<h2 align="left">Learned :computer:</h2> <h2 align="right">In learning 👨🏽‍💻</h2>
+<h2 align="left">Learned :computer:</h2>
+<div align="left">
+![Diseño sin título](https://user-images.githubusercontent.com/66091809/153700361-6ff201a0-c913-48fd-8f09-fd5d657ceb18.svg)
+</div>
+
+<h2 align="right">In learning 👨🏽‍💻</h2>
 
 <h2 align="center">Contact me if you study in the IPN 🦄 (just 4 fun)</h2>
 
