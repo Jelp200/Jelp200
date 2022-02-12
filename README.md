@@ -1,6 +1,6 @@
 # Hi, I'm Jorge;
 
-### My name's Jorge i'm a electronic and telecommunications student in the ESIME Z of the IPN, I love all about of the engineering, entrepreneuring and the philosophy 🦾💻⚙️📡
+### My name's Jorge i'm a electronic and telecommunications student in the <a href="https://www.esimez.ipn.mx/">ESIME Z</a> of the <a href="https://www.ipn.mx/">IPN</a>, I love all about of the engineering, entrepreneuring and the philosophy 🦾💻⚙️📡
 
 ```C
 #include <stdio.h>
@@ -36,6 +36,8 @@ void languages(){
       char opcion = terminal.getc();
 }
 ```
+<h2 align="left">Learned :computer:</h2> <h2 align="rigth">In learning 👨🏽‍💻</h2>
+
 <h2 align="center">Contact me if you study in the IPN 🦄 (just 4 fun)</h2>
 
 ![Robert Frost](https://user-images.githubusercontent.com/66091809/153699561-af447f42-8c77-44e2-b83d-a099096c9bbe.gif)
