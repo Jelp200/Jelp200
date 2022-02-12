@@ -1,7 +1,12 @@
-# puts("Hi everybody <3");
+# Hi, I'm Jorge;
 
 ### My name's Jorge i'm a electronic and telecommunications student in the ESIME Z of the IPN, I love all about of the engineering, entrepreneuring and the philosophy 🦾💻⚙️📡
 
+```C
+int main(){
+      char x;
+}
+```
 <!--
 <h3 align="center">Languages and tools</h3>
 <div style="display: inline_block" align="center"><br>
