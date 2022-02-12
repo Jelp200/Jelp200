@@ -36,7 +36,9 @@ void languages(){
       char opcion = terminal.getc();
 }
 ```
-<h2 align="center">Contact me if you study in the IPN 🦄:</h2>
+<h2 align="center">Contact me if you study in the IPN 🦄 (just 4 fun)</h2>
+
+![Robert Frost](https://user-images.githubusercontent.com/66091809/153699561-af447f42-8c77-44e2-b83d-a099096c9bbe.gif)
 
 <!--
 <h3 align="center">Languages and tools</h3>
