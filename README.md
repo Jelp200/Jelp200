@@ -38,12 +38,12 @@ void languages(){
 ```
 <h2 align="left">Learned :computer:</h2>
 <div align="left">
-      <img height="180em" src="https://user-images.githubusercontent.com/66091809/153700582-e3968790-f9ee-4ca9-884b-8f7693b4628e.png"/>
+      <img height="280em" src="https://user-images.githubusercontent.com/66091809/153700582-e3968790-f9ee-4ca9-884b-8f7693b4628e.png"/>
 </div>
 
 <h2 align="right">In learning 👨🏽‍💻</h2>
 <div align="left">
-   ![Learning](https://user-images.githubusercontent.com/66091809/153700579-e60b046b-21d5-40da-bbe2-0b5c7327b6a0.png)
+      <img height="380em" src="https://user-images.githubusercontent.com/66091809/153700579-e60b046b-21d5-40da-bbe2-0b5c7327b6a0.png"/>
 </div>
 
 <h2 align="center">Contact me if you study in the IPN 🦄 (just 4 fun)</h2>
