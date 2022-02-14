@@ -39,7 +39,7 @@ void languages(){
 <h2 align="left">Learned :computer:</h2>
 
 <div align="left">
-      <img height="380em" src="https://user-images.githubusercontent.com/66091809/153890541-a01b5fa0-3e4e-4737-8e7b-d2925804a299.png"/>
+      <img height="180em" src="https://user-images.githubusercontent.com/66091809/153890541-a01b5fa0-3e4e-4737-8e7b-d2925804a299.png"/>
 </div>
 
 <div align="left">
