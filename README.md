@@ -38,6 +38,10 @@ void languages(){
 ```
 <h2 align="left">Learned :computer:</h2>
 <div align="left">
+      <img height="380em" src="https://user-images.githubusercontent.com/66091809/153890036-1658e34c-0f16-45ac-8ee2-3d02cf2060e4.png"/>
+</div>
+
+<div align="left">
       <img height="380em" src="https://user-images.githubusercontent.com/66091809/153700582-e3968790-f9ee-4ca9-884b-8f7693b4628e.png"/>
 </div>
 
