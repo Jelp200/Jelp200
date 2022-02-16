@@ -16,18 +16,20 @@ int main(){
       puts("School: Higher School of Mechanical and Electrical Engineering Zacatenco");
       puts("Career: Communications and electronics engineering")
       
+      system("cls");
       void languages();
       void tools();
       return 0;
 }
 
 void languages(){
+      wait(3);
       terminal.printf("My languages: C, C++, PY, Java, JS");
       terminal.printf("Press a button to continue...");
       char opcion = terminal.getc();
 }
 
-void languages(){
+void tools(){
       wait(3);
       terminal.printf("Tools: ");
       terminal.printf("VS, VSC, Mbed");
