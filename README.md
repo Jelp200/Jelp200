@@ -1,7 +1,5 @@
 # Hi, I'm Jorge;
 
-## Hello
-
 ### My name's Jorge i'm a electronic and telecommunications student in the <a href="https://www.esimez.ipn.mx/">ESIME Z </a> of the <a href="https://www.ipn.mx/">IPN</a>, I love all about of the engineering, entrepreneuring and the philosophy 🦾💻⚙️📡.
 
 ```C
