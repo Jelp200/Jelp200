@@ -38,6 +38,10 @@ void tools(){
       char opcion = terminal.getc();
 }
 ```
+
+```sol
+pragma solidity ^0.4.0;
+```
 <h2 align="left">Learned :computer:</h2>
 
 <div>
