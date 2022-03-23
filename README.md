@@ -49,7 +49,7 @@ void tools(){
       
 </div>
 
-<h2 align="left">In learning 👨🏽‍💻</h2>
+<h2 align="left">Learning 👨🏽‍💻</h2>
 <div>
       <img height="80em" src="https://user-images.githubusercontent.com/66091809/153894564-02d9115f-e1fb-4e28-8569-78717d202d08.png"/>
       <img height="80em" src="https://user-images.githubusercontent.com/66091809/153894579-0ac6ff24-ec8a-434c-a61d-93c2b9312562.png"/>
