@@ -41,9 +41,10 @@ void tools();
 int main(){
 
       puts("Name: Jorge Peña");
-      puts("University: National Polytechnic Institute");
-      puts("School: Higher School of Mechanical and Electrical Engineering Zacatenco");
-      puts("Career: Communications and electronics engineering")
+      puts("Nickname: JELP200");
+      puts("University: Instituto Politecnico Nacional");
+      puts("School: Escuela Superior de Ingenieria Mecanica y Electrica Unidad Zacatenco");
+      puts("Career: Ingenieria en comunicaciones y electronica");
       
       system("cls");
       void languages();
