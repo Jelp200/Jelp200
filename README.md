@@ -64,4 +64,5 @@ void tools(){
       <img height="80em" src="https://user-images.githubusercontent.com/66091809/153894640-a3670a92-bd17-4aaa-a67d-39bdc1e1f25c.png"/>
 </div>
 
+<h2 align = "center">Our colors are :green_circle: and :white_cicle: because the :red_cicrle: is in our blood </h2>
 ![NOOB](https://user-images.githubusercontent.com/66091809/202521801-02487c36-5629-4b86-8cee-36af2aa84176.gif)
