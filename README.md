@@ -55,7 +55,7 @@ void tools(){
       
 </div>
 
-<h2 align="left">Learning 👨🏽‍💻</h2>
+<h2 align="center">Learning 👨🏽‍💻</h2>
 <div>
       <img height="80em" src="https://user-images.githubusercontent.com/66091809/153894564-02d9115f-e1fb-4e28-8569-78717d202d08.png"/>
       <img height="80em" src="https://user-images.githubusercontent.com/66091809/153894579-0ac6ff24-ec8a-434c-a61d-93c2b9312562.png"/>
@@ -64,6 +64,4 @@ void tools(){
       <img height="80em" src="https://user-images.githubusercontent.com/66091809/153894640-a3670a92-bd17-4aaa-a67d-39bdc1e1f25c.png"/>
 </div>
 
-<h2 align="center">Contact me if you study in the IPN 🦄 (just 4 fun)</h2>
-
-![Robert Frost](https://user-images.githubusercontent.com/66091809/153699561-af447f42-8c77-44e2-b83d-a099096c9bbe.gif)
+![NOOB](https://user-images.githubusercontent.com/66091809/202521801-02487c36-5629-4b86-8cee-36af2aa84176.gif)
