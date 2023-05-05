@@ -1,69 +1,41 @@
-# WELLCOME TO MY GITHUB
+![MasterHead](https://user-images.githubusercontent.com/66091809/236367782-6863e808-5189-4c55-841b-dae5e7fe4780.gif)
+
+<h1 align="center">Hi 👋, wellcome to my github I'm Jorge Peña 🇲🇽</h1>
+<h3 align="center">Electronic and communications student in the <a href="https://www.esimez.ipn.mx/">ESIME Z </a> of the <a href="https://www.ipn.mx/">IPN</a>, I love all about engineering, philosophy and entrepreneuring 🦾💻⚙️📡</h3>
+
 ```txt
 200   _             _             _             _    |  See No Evil +
      c -.          { ".          c "}          c ".  |  Hear No Evil +
 \_   / \   +  \_   /\\   +  \_   / \/  =  \_   / \^  |  Speak No Evil =
   \_| ||        \_|  |        \_|  |        \_| ||   |  One Bored Monkey
 ```
-### My name's Jorge i'm a electronic and telecommunications student in the <a href="https://www.esimez.ipn.mx/">ESIME Z </a> of the <a href="https://www.ipn.mx/">IPN</a> and I love all about of the engineering, entrepreneuring and philosophy 🦾💻⚙️📡.
 
-```C
-#include <stdio.h>
-#include "github.h"
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jelp200&label=Profile%20views&color=0e75b6&style=flat" alt="jelp200" /> </p>
 
-void languages();
-void tools();
+- 🔭 I’m currently working on [Mi mercadito](https://github.com/Jelp200/Mi-mercadito)
 
-int main(){
+- 🌱 I’m currently learning **Python, R, Laravel, React, Android**
 
-      puts("Name: Jorge Peña");
-      puts("Nickname: JELP200");
-      puts("University: Instituto Politecnico Nacional");
-      puts("School: Escuela Superior de Ingenieria Mecanica y Electrica Unidad Zacatenco");
-      puts("Career: Ingenieria en comunicaciones y electronica");
-      
-      system("cls");
-      void languages();
-      void tools();
-      return 0;
-}
+- 💬 Ask me about **C/C++, Matlab, Electronic, Control and more**
 
-void languages(){
-      wait(3);
-      terminal.printf("My languages: C, C++, PY, Java, JS");
-      terminal.printf("Press a button to continue...");
-      char opcion = terminal.getc();
-}
+<h3 align="left">Connect with me 📶:</h3>
+<p align="left">
+<a href="https://dev.to/@jelp200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@jelp200" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jorge peña" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jorge peña" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/ice4dummies" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ice4dummies" height="30" width="40" /></a>
+</p>
 
-void tools(){
-      wait(3);
-      terminal.printf("Tools: ");
-      terminal.printf("VS, VSC, Mbed");
-      terminal.printf("In progress to have more tools");
-      terminal.printf("Press a button to continue...");
-      char opcion = terminal.getc();
-}
-```
-<h2 align="left">Learned :computer:</h2>
+<h3 align="left">Languages 👨‍💻:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
 
-<div>
-      <img height="80em" src="https://user-images.githubusercontent.com/66091809/153890541-a01b5fa0-3e4e-4737-8e7b-d2925804a299.png"/>
-      <img height="80em" src="https://user-images.githubusercontent.com/66091809/153891191-4447b129-9ac5-4dbd-b23d-e587d5d1787c.png"/>
-      <img height="80em" src="https://user-images.githubusercontent.com/66091809/153891865-790a81fd-2feb-4fd0-96bf-9f330a9fb893.png"/>
-      <img height="80em" src="https://user-images.githubusercontent.com/66091809/153892692-a1192516-b617-4cb4-a153-9a2e49393537.png"/>
-      <img height="80em" src="https://user-images.githubusercontent.com/66091809/153892974-557b9986-134f-4a37-858e-5536b2a169c4.png"/>
-      
-</div>
+<h3 align="left">Tools 🧰:</h3>
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
 
-<h2 align="left">Learning 👨🏽‍💻</h2>
-<div>
-      <img height="80em" src="https://user-images.githubusercontent.com/66091809/153894564-02d9115f-e1fb-4e28-8569-78717d202d08.png"/>
-      <img height="80em" src="https://user-images.githubusercontent.com/66091809/153894579-0ac6ff24-ec8a-434c-a61d-93c2b9312562.png"/>
-      <img height="80em" src="https://user-images.githubusercontent.com/66091809/153894606-181387b5-0da3-445b-9570-6d9ae061b2ad.png"/>
-      <img height="80em" src="https://user-images.githubusercontent.com/66091809/153894624-41db0afd-a94f-4f67-ba75-b6d4638cbc74.png"/>
-      <img height="80em" src="https://user-images.githubusercontent.com/66091809/153894640-a3670a92-bd17-4aaa-a67d-39bdc1e1f25c.png"/>
-</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jelp200&show_icons=true&locale=en&layout=compact" alt="jelp200" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jelp200&show_icons=true&locale=en" alt="jelp200" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jelp200&" alt="jelp200" /></p>
+
 
 <h2 align = "center">Our colors are 🟩 and ⬜ because the 🟥 is in our blood</h2>
-
-![NOOB](https://user-images.githubusercontent.com/66091809/202521801-02487c36-5629-4b86-8cee-36af2aa84176.gif)
