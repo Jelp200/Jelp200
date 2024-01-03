@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/66091809/236367782-6863e808-5189-4c55-841b-dae5e7fe4780.gif)
+![MasterHead](https://github.com/Jelp200/Jelp200/assets/66091809/a5e6da0d-b14b-4797-9481-bd57f2762b62)
 
 <h1 align="center">👋 Bienvenido a mi github soy Jorge Peña</h1>
 <h3 align="center">Soy estudiante de ingeniería en comunicaciones y electrónica en la <a href="https://www.esimez.ipn.mx/">ESIME Z </a> del <a href="https://www.ipn.mx/">IPN</a>, me encanta todo lo relacionado con la tecnología, emprenidmiento y filosofía. 🦾💻⚙️📡</h3>
