@@ -26,7 +26,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jelp200&label=Profile%20views&color=0e75b6&style=flat" alt="jelp200" /> </p>
 
-- 🔭 Actualmente trabajo en mis porpios proyectos entre ellos [GULU](https://github.com/Jelp200/Mi-mercadito)
+- 🔭 Actualmente trabajo en mis porpios proyectos entre ellos [GULU]([https://github.com/Jelp200/Mi-mercadito](https://github.com/Jelp200/Tesis))
 
 - 🌱 Estoy aprendiendo **Python, R, Laravel, React, Android**
 
